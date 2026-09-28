@@ -17,3 +17,5 @@ If a mod **changes** any bones in the player model, the mod could fail and it wi
 Compatibility hasnt been tested a lot, any issues report them in the github
 
 Thanks for reading and downloading!
+
+![Image Alt](https://github.com/Skriptty/SagTag-Inverse-Kinematics/blob/29e02f5643c39aba801b842f6e784784390b58b2/icon.png)
