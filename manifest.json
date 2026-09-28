@@ -1,0 +1,7 @@
+{
+	"name": "SagTag_Inverse_Kinematics",
+	"version_number": "0.0.1",
+	"website_url": "https://github.com/Skriptty/SagTag-Inverse-Kinematics/tree/main",
+	"description": "Adds Inverse Kinematics to the player legs, basically it adapts to terrain",
+	"dependencies": []
+}
